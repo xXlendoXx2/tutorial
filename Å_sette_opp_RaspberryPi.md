@@ -1,4 +1,4 @@
-### 1. Start Raspberry imager  
+### 1. Start Raspberry Pi imager  
 ### 2. Sett inn SD kortet ditt inn i maskinen
 ### 3. Da vil du få ett vindu slik som dette 
 ![Bilde av forside til Raspberry Pi imager](Bilder/Raspberrypi.png)
