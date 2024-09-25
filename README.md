@@ -8,3 +8,8 @@
 #### - Installerer MariaDB 
 #### - Å opprette brukere i MariaDB
 #### - Å lage en Telefonkatalog i MariaDB
+
+# OBS!
+## Du kommer til å trenge RaspberryPI imager før du starter!
+### Her kan du laste den ned: 
+https://www.raspberrypi.com/software/ 
