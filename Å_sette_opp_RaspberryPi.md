@@ -9,7 +9,9 @@
 ### 8. Så er det å starte opp Raspberry Pien å gjøre systemoppsettet
 ### 9. Først så velger du språket deretter så velger du tastatur språket etter dette så velger du hvilket trådløs internette
 ### 10. etter dette lager du din egen bruker på Raspberry Pien
-### 11 Da vil du komme til noe slik som dette 
-![](Bilder/)
+### 11. Da vil du komme til noe slik som dette 
+![Start skjermen til Ubuntu ](Bilder/UbuntuStart.png)
+### 12. Det er bare å takke nei til alt helt til du ser finish også trykker du på den
+### 13. Da har du fått settet opp Raspberry pien. Om du har noen oppdateringer er det bare å kjøre de
 
  
